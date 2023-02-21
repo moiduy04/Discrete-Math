@@ -1,2 +1,2 @@
 # Discrete-Math
-Bài tập Toán rời tạc
+Bài tập Toán rời rạc
